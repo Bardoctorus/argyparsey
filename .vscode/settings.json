@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "util.h": "c",
+        "argp.h": "c",
+        "string.h": "c"
+    }
+}
